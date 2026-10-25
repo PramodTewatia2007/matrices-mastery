@@ -1,5 +1,5 @@
 # MatrixMastery AI — AI-Powered Linear Algebra & Matrices Tutor
-
+![image alt](https://github.com/PramodTewatia2007/matrices-mastery/blob/46dc79050d10f42afb25d4816a380636528b091e/matrix.PNG)
 A complete, full-stack interactive educational web application dedicated to the **Matrices unit of Linear Algebra**. It functions as a personal mathematics tutor teaching concepts from beginner foundations to advanced university examination level in **English and Hinglish (Hindi + English)**.
 
 ---
